@@ -39,6 +39,8 @@ jsproxy_config({
       lines: {
         // 收费版（高权重）
         //'node-cfworker-2.etherdream.com': 4,
+'plain-term-8fc0.testpp2020.workers.dev':1,
+
 
         // 免费版（低权重，分摊一些成本）
         // 每个账号每天 10 万次免费请求，但有频率限制
